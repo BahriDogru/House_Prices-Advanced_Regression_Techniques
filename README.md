@@ -69,7 +69,7 @@ The dataset used in this project is the **House Prices - Advanced Regression Tec
 ### Links
 Kaggle Competition & Dataset: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 
-My Kaggle Notebook: [Link to your Kaggle Notebook] (https://www.kaggle.com/code/bahridgr/predicting-house-prices-with-regression-techniques)
+My Kaggle Notebook: [Predicting House Prices with Regression Technique](https://www.kaggle.com/code/bahridgr/predicting-house-prices-with-regression-techniques)
 
 ## Conclusion
 
